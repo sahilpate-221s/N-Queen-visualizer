@@ -7,7 +7,7 @@ Explore the N-Queens problem visually: input board size, see queens placed, and 
 The N-Queens Problem Solver is a web-based application designed to visualize solutions to the classic N-Queens problem. This problem involves placing N queens on an N×N chessboard such that no two queens threaten each other. The application allows users to input the size of the chessboard (N) and dynamically displays the placement of queens as they are calculated using a backtracking algorithm.
 ## Authors
 
-- [@Harshit2047](https://www.github.com/Harshit2047)
+- [@sahilpate-221s](https://github.com/sahilpate-221s)
 
 
 ## Features
@@ -56,4 +56,4 @@ Feel free to reach out, connect, and provide feedback on the N-Queens Problem So
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for any purpose, including commercial purposes, without restrictions.
 
-For any questions or support, please contact koshtaharshit2332002@gmail.com
+For any questions or support, please contact s.sahil007patel@gmail.com
